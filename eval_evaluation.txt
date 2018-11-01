@@ -1,0 +1,6 @@
+1) If the human has got three continuous pieces in any direction(horizontal, vertical, forward diagonal and backward diagonal) with possibility to add one more, eval function adds evaluation value of +100 to overall
+2) If the computer has got three continuous pieces in any direction with possibility to add one more, eval function adds evaluation value of -100
+3) If the human has got two continuous pieces in any direction with possibility to add two more, eval function adds evaluation value of +50
+4) If the computer has got two continuous pieces in any direction with possibility to add two more, eval function adds evaluation value of -50
+
+Based on the current evaluation value, decision is made by computer on how next best move is established.  
